@@ -1,5 +1,5 @@
 definitions:
   config:
-    /hst:hst/hst:sites/myproject:
+    /hst:hst/hst:sites/gogreen:
       jcr:primaryType: hst:site
-      hst:content: /content/documents/myproject
+      hst:content: /content/documents/gogreen

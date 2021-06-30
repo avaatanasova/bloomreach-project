@@ -1,6 +1,6 @@
 group:
-  name: myproject
+  name: gogreen
   after: hippo-cms
-project: myproject
+project: gogreen
 module:
-  name: myproject-repository-data-application
+  name: gogreen-repository-data-application

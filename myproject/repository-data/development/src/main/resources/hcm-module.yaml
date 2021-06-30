@@ -1,7 +1,7 @@
 group: 
-  name: myproject
+  name: gogreen
   after: hippo-cms
-project: myproject
+project: gogreen
 module: 
-  name: myproject-repository-data-development
-  after: myproject-repository-data-application
+  name: gogreen-repository-data-development
+  after: gogreen-repository-data-application

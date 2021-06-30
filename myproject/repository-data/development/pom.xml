@@ -4,13 +4,13 @@
 
   <parent>
     <groupId>org.example</groupId>
-    <artifactId>myproject-repository-data</artifactId>
+    <artifactId>gogreen-repository-data</artifactId>
     <version>0.1.0-SNAPSHOT</version>
   </parent>
 
-  <name>My Project Repository Data For Development</name>
-  <description>My Project Repository Data For Development</description>
-  <artifactId>myproject-repository-data-development</artifactId>
+  <name>GoGreen Repository Data For Development</name>
+  <description>GoGreen Repository Data For Development</description>
+  <artifactId>gogreen-repository-data-development</artifactId>
 
   <build>
     <defaultGoal>install</defaultGoal>

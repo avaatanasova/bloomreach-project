@@ -61,9 +61,6 @@
       <AppenderRef ref="audit"/>
     </Logger>
 
-    <!-- index repair logging -->
-    <Logger name="org.hippoecm.repository.jackrabbit.IndexRepairer" level="info"/>
-
     <!-- Site logging -->
     <Logger name="org.hippoecm.hst" level="warn"/>
 
@@ -96,10 +93,6 @@
     <Logger name="org.apache.jackrabbit.core.query.lucene.MultiIndex" level="info"/>
     <Logger name="org.apache.jackrabbit.core.query.lucene.SearchIndex" level="info"/>
     <Logger name="org.apache.jackrabbit.core.query.lucene.ConsistencyCheck" level="info"/>
-
-    <!-- Dynamic beans logging -->
-    <Logger name="org.hippoecm.hst.content.beans.dynamic" level="info"/>
-    <Logger name="org.hippoecm.hst.content.beans.builder" level="info"/>
 
     <!-- project logging -->
     <Logger name="org.example" level="info"/>

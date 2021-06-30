@@ -1,5 +1,5 @@
 group: 
-  name: myproject
-project: myproject
+  name: gogreen
+project: gogreen
 module:
-  name: myproject-repository-data-webfiles
+  name: gogreen-repository-data-webfiles

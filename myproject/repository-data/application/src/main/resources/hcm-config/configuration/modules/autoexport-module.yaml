@@ -3,4 +3,4 @@ definitions:
     /hippo:configuration/hippo:modules/autoexport:
       /hippo:moduleconfig:
         autoexport:modules: ['repository-data/application:/',
-                             'repository-data/site:myproject:/hst:myproject']
+                             'repository-data/site:gogreen:/hst:gogreen']

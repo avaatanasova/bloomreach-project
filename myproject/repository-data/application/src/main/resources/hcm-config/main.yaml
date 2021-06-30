@@ -1,5 +1,5 @@
 definitions:
   namespace:
-    myproject:
-      uri: http://www.myproject.com/myproject/nt/1.0
-      cnd: namespaces/myproject.cnd
+    gogreen:
+      uri: http://www.gogreen.com/gogreen/nt/1.0
+      cnd: namespaces/gogreen.cnd

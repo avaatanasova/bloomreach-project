@@ -6,8 +6,8 @@
          id="site">
 
 
-  <display-name>My Project site</display-name>
-  <description>My Project site</description>
+  <display-name>GoGreen site</display-name>
+  <description>GoGreen site</description>
 
   <jsp-config>
     <jsp-property-group>

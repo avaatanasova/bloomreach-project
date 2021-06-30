@@ -4,13 +4,13 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>org.example</groupId>
-    <artifactId>myproject-site</artifactId>
+    <artifactId>gogreen-site</artifactId>
     <version>0.1.0-SNAPSHOT</version>
   </parent>
-  <artifactId>myproject-components</artifactId>
+  <artifactId>gogreen-components</artifactId>
   <packaging>jar</packaging>
-  <name>My Project Site Components</name>
-  <description>My Project Site Components</description>
+  <name>GoGreen Site Components</name>
+  <description>GoGreen Site Components</description>
 
   <dependencies>
     <dependency>

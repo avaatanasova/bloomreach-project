@@ -6,8 +6,8 @@
          id="cms">
 
   <!-- General configuration -->
-  <display-name>My Project CMS</display-name>
-  <description>My Project CMS</description>
+  <display-name>GoGreen CMS</display-name>
+  <description>GoGreen CMS</description>
 
   <listener>
     <listener-class>org.hippoecm.hst.platform.container.HstCmsContextLoaderListener</listener-class>

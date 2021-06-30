@@ -5,9 +5,12 @@
 <html lang="en">
   <head>
     <meta charset="utf-8"/>
-    <title>500 Internal Server Error</title>
+    <title>500 error</title>
   </head>
   <body>
-    <h1>500 Internal Server Error</h1>
+    <h1>Server error</h1>
+    <% out.println("<!-- An unexcepted error occurred. The name of the exception is:"); %>
+    <%= exception %>
+    <% out.println("-->"); %>
   </body>
 </html>

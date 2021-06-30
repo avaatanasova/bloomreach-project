@@ -1,6 +1,6 @@
-site: myproject
-group: myproject
-project: myproject
+site: gogreen
+group: gogreen
+project: gogreen
 module:
-  name: myproject-repository-data-site-development
-  after: myproject-repository-data-site
+  name: gogreen-repository-data-site-development
+  after: gogreen-repository-data-site
